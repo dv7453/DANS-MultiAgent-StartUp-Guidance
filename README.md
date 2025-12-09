@@ -1,4 +1,4 @@
-# StartupGPT
+# DANS-MultiAgent-StartUp-Guidance
 
 A Streamlit application that generates and chats about comprehensive startup reports using Groq models via LangChain.
 
