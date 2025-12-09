@@ -68,4 +68,3 @@ workflows/startupgpt_workflow.yaml  # Workflow definition
 ## License
 
 Proprietary. All rights reserved.
-# DANS-MultiAgent-StartUp-Guidance
